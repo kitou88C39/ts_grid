@@ -11,3 +11,7 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+* {
+  box-sizing:border-box;
+}
